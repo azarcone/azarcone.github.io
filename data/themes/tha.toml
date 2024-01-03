@@ -1,9 +1,9 @@
 # Theme metadata
-name = "1950s"
+name = "tha"
 
 [light]
   # Primary
-  primary = "#EF525B"
+  primary = "#ff0032"
 
   # Menu
   menu_primary = "#24C2CB"
