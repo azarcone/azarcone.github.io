@@ -8,8 +8,8 @@
 appearance:
  # mode: light
   #color: red
-  theme_day: tha_light
-  theme_night: tha_dark
+  theme_day: thalight
+  theme_night: thadark
   font: minimal
   font_size: M
 
