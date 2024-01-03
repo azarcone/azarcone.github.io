@@ -21,20 +21,17 @@ role: Professor of Language Technologies and Cognitive Assistants
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Technische Hochschule Augsburg
-  url: https://www.tha.de/
-- name: Chief Scientist, Fraunhofer IIS Erlangen
-  url: https://www.iis.fraunhofer.de/
+  - name: Stanford University
+    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computational linguist with a background in NLP and in psycholinguistics, working on AI, NLP and human-machine interaction.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - NLP and Computational Linguistics
   - Artificial Intelligence
-  - Human-Computer Interaction
-  - Voice Assistants
+  - Computational Linguistics
+  - Information Retrieval
 
 # Education to show in About widget
 education:
