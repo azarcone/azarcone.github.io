@@ -23,6 +23,9 @@ role: Professor of Language Technologies and Cognitive Assistants
 organizations:
   - name: Technische Hochschule Augsburg
     url: https://www.tha.de/
+  - name: Chief Scientist  
+  - name: Fraunhofer IIS Erlangen
+    url: https://www.iis.fraunhofer.de/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computational linguist with a background in NLP and in psycholinguistics, working on AI, NLP and human-machine interaction.
