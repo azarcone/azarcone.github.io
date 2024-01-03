@@ -21,30 +21,34 @@ role: Professor of Language Technologies and Cognitive Assistants
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Technische Hochschule Augsburg
+    url: https://www.tha.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computational linguist with a background in NLP and in psycholinguistics, working on AI, NLP and human-machine interaction.
 
 # Interests to show in About widget
 interests:
+  - NLP and Computational Linguistics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction
+  - Voice Assistants
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in NLP
+      institution: Universität Stuttgart
+      year: 2014
+    - course: Diploma in Modern Philology & Linguistics
+      institution: Scuola Normale Superiore di Pisa
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Linguistics
+      institution: Università di Pisa
+      year: 2009
+    - course: BSc in Digital Humanities
+      institution: Università di Pisa
+      year: 2003
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
