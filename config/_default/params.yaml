@@ -7,9 +7,9 @@
 
 appearance:
  # mode: light
-  color: red
-  #theme_day: minimal
-  #theme_night: minimal
+  #color: red
+  theme_day: 1950s
+  theme_night: 1950s
   font: minimal
   font_size: M
 
