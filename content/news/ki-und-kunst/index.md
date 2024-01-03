@@ -1,6 +1,6 @@
 ---
 title: Diskussion über KI und Kunst
-date: '2024-01-24'
+date: '2024-01-03'
 summary: Diskussion über KI und Kunst 
 ---
 
@@ -17,3 +17,4 @@ Der Eintritt ist frei
 - Wo: Samstag, 20. Januar 2024, 18:00 – 19:30
 - Wann: Glaspalast, Böheimstraße 8, 86153 Augsburg
 - [Weitere Informationen hier](https://a3kultur.de/termine/glaspalast/ki-und-kunst/2023-12-18)
+
