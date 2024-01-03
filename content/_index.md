@@ -110,6 +110,8 @@ sections:
           date_start: '2009-08-17'
           date_end: '2014-07-31'
 
+    design:
+      columns: '2'
 
   - block: accomplishments
     content:
