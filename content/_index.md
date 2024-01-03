@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
+  #- block: skills
+  #  content:
+  #    title: Skills
+  #    text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  #    username: admin
+  #  design:
+  #    columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,29 +62,55 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Professor of Language Technologies and Cognitive Assistants
+          company: Technische Hochschule Augsburg
+          company_url: 'https://www.tha.de/'
+          company_logo: tha
+          location: Augsburg, Germany
+          date_start: '2022-03-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          
+        - title: Chief Scientist
+          company: Fraunhofer IIS
+          company_url: 'https://www.iis.fraunhofer.de/'
+          company_logo: fraunhofer
+          location: Erlangen, Germany
+          date_start: '2023-01-01'
+          date_end: ''
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
+        - title: Senior Scientist and Component Lead for Data Acquisition and Management
+          company: Fraunhofer IIS
+          company_url: 'https://www.iis.fraunhofer.de/'
+          company_logo: fraunhofer
+          location: Erlangen, Germany
+          date_start: '2020-09-01'
+          date_end: '2022-02-15'
+
+        - title: Research Associate
+          company: Fraunhofer IIS
+          company_url: 'https://www.iis.fraunhofer.de/'
+          company_logo: fraunhofer
+          location: Erlangen, Germany
+          date_start: '2018-09-01'
+          date_end: '2022-02-15'
+          
+        - title: Postdoctoral Researcher
+          company: Universität des Saarlandes
+          company_url: 'https://www.uni-saarland.de/'
+          company_logo: uni-saarland
+          location: Saarbrücken, Germany
+          date_start: '2014-08-01'
+          date_end: '2018-08-31'
+          
+        - title: PhD student and researcher
+          company: Universität Stuttgart
+          company_url: 'https://www.uni-stuttgart.de/'
+          company_logo: uni-stuttgart
+          location: Stuttgart, Germany
+          date_start: '2009-08-17'
+          date_end: '2014-07-31'
+
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
