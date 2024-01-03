@@ -87,11 +87,6 @@ education:
 #        percent: 100
 #        icon: cat
 #        icon_pack: fas
-#      - name: Photography
-#        description: ''
-#        percent: 80
-#        icon: camera-retro
-#        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
