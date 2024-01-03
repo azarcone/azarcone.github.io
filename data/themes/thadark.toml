@@ -3,10 +3,10 @@ name = "thadark"
 
 [dark]
   # Primary
-  primary = "#ff0044"
+  primary = "#ff0351"
 
   # Menu
-  menu_primary = "#ff0044"
+  menu_primary = "#ff0351"
   menu_text = "#fff"
   menu_text_active = "rgb(253, 189, 8)"
   menu_title = "#fff"
