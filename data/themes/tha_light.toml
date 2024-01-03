@@ -1,5 +1,5 @@
 # Theme metadata
-name = "tha"
+name = "tha_light"
 
 [light]
   # Primary
@@ -15,3 +15,4 @@ name = "tha"
   background = "#EAE7D6"
   home_section_odd = "#EAE7D6"
   home_section_even = "#EAE7D6"
+#474646
