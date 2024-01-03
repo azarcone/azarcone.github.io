@@ -14,3 +14,6 @@ banner:
   caption: ''
   image: ''
 ---
+
+I am adding my publications to this page, until they are complete you can find the complete list on
+ [Google Scholar](https://scholar.google.com/citations?user=fACNr0IAAAAJ&hl=de)

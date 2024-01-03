@@ -12,5 +12,5 @@ name = "thadark"
   menu_title = "#fff"
 
   # Home sections
-  home_section_odd = "rgb(70, 70, 70)"
-  home_section_even = "rgb(70, 70, 70)"
+  home_section_odd = "#464646"
+  home_section_even = "#464646"
