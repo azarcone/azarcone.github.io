@@ -16,3 +16,4 @@ Der Eintritt ist frei
 
 - Wo: Samstag, 20. Januar 2024, 18:00 – 19:30
 - Wann: Glaspalast, Böheimstraße 8, 86153 Augsburg
+- [Weitere Informationen hier](https://a3kultur.de/termine/glaspalast/ki-und-kunst/2023-12-18)
