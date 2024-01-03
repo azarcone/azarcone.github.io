@@ -1,7 +1,7 @@
 ---
-title: CHIASM-Projekt bewilligt
+title: CHIASM-Projekt bewilligt!
 date: '2024-01-03'
-summary: Diskussion über KI und Kunst am 20.01.24 (Glaspalast, Augsburg)
+summary: Das CHIASM-Projekt (Chancenreiche industrielle Anwendung für vortrainierte Sprachmodelle) wurde bewilligt.
 ---
 
 Das CHIASM-Projekt (Chancenreiche industrielle Anwendung für vortrainierte Sprachmodelle) wurde im Rahmen des „Programms zur Förderung der angewandten Forschung und Entwicklung an Hochschulen für angewandte Wissenschaften und Technischen Hochschulen“ bewilligt.
