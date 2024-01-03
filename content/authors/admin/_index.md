@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Alessandra Zarcone
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alessandra
+last_name: Zarcone
 
 # Status emoji
 status:
@@ -17,15 +17,17 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Professor of Language Technologies and Cognitive Assistants
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Technische Hochschule Augsburg
+  url: https://www.tha.de/
+- name: Chief Scientist, Fraunhofer IIS Erlangen
+  url: https://www.iis.fraunhofer.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Computational linguist with a background in NLP and in psycholinguistics, working on AI, NLP and human-machine interaction.
 
 # Interests to show in About widget
 interests:
