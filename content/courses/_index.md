@@ -15,7 +15,8 @@ view: 1
   #image: ""
 ---
 
-I am currently teaching the following courses:
+<h4>Current Teaching</h4>
+
 
 - Einführung in die maschinelle Sprachverarbeitung (SS, Wahlpflichtfach for B.Sc. and M.Sc. students of the Informatik Faculty, TH Augsburg)
 - Statistics (WS, B.Sc. International Information Systems, TH Augsburg)
@@ -24,6 +25,6 @@ I am currently teaching the following courses:
 - Supervision of [student projects]({{< relref "../student_project/" >}}) and [theses]({{< relref "../supervision/" >}})
 
 
-Course I taught / I am teaching<br/>
+<h4>Past Teaching</h4>
 <br/>
 

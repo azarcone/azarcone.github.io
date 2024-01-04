@@ -19,6 +19,6 @@ image:
 
 <h4>Description </h4>
 
-This was a quick 90-minute lesson on statistics and R for Phd Students in the Graduiertenkolleg of the SFB 732 at Universität Stuttgart.
+A 90-minute lesson on statistics and R for Phd Students in the Graduiertenkolleg of the SFB 732 at Universität Stuttgart.
 
 - [Slides](GK_statistics.zip)
