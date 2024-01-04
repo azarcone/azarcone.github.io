@@ -26,3 +26,11 @@ I am currently teaching the following courses:
 
 Course I taught / I am teaching<br/>
 <br/>
+
+
+#• WS 2015/16: Salience and Predictability: attention, accessibility and Surprisal - mit Vera
+#Demberg. Seminar mit kritischen Lesen der Literatur, geleitete Diskussionsrunde,
+#Aufgaben (Abstracts) und Vorträge der Studierenden und Peer-Review in der Klasse, für
+#B.Sc. / M.Sc. Studierenden der Universität des Saarlandes (Computational Linguistics and
+#Psychology)
+
