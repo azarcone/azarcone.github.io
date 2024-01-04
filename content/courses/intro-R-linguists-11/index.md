@@ -9,7 +9,7 @@ summary: A four-day course on statistics and R for linguists
 #- Logical Metonymy
 #- SFB732
 
-date: "2011-01-21T00:00:00Z"
+date: "2011-09-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
