@@ -23,4 +23,4 @@ Are you interested in a thesis topic?
 - 2023: Lukic, Ivan, **Definition, Analyse und Entwiclung einer Recommendation Engine im E-Commerce Kontext**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with uniqbit AG)
 - 2023: Kopf, Fabian, **Individualisierung von künstlich erzeugten Texten**, Masterarbeit. Studiengang Informatik, Technische Hochschule Augsburg
 - 2020: Alam, Touhidul, **A Domain-Adaptive Temporal Tagger for Voice Assistants**, Master Thesis. Studiengang Computational Linguistics, Universität Stuttgart (in collaboration with Fraunhofer IIS)
-- 2011: Rüd, Stefan, **Covert Events and Qualia Structures for German Verbs**, Studienarbeit. Universität Stuttgart - published at [LREC 2012](../publication/2012-LREC/index.md )
+- 2011: Rüd, Stefan, **Covert Events and Qualia Structures for German Verbs**, Studienarbeit. Universität Stuttgart - published at [LREC 2012](../publication/2012-LREC/index.md)
