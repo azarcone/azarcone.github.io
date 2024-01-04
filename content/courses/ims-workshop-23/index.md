@@ -51,7 +51,7 @@ The workshop offers an immersive learning experience centered on Conversational 
 <h4>Schedule </h4>
 <table>
 <th>
-<td></td><td>Day 1 (04/12/23)</td><td>Day 2 (05/12/23)</td><td>Day 3 (08/12/23)</td>
+<td></td><td><b>Day 1 (04/12/23)</b></td><td><b>Day 2 (05/12/23)</b></td><td><b>Day 3 (08/12/23)</b></td>
 </th>
 <tr>
 <td><b>Morning</b> </td><td> (09:00 - 10:30)</td>
@@ -65,7 +65,7 @@ The workshop offers an immersive learning experience centered on Conversational 
 <td>Introduction to Dialogue Systems</td></td><td>Practice Session with Stephanie Hofmann (Fraunhofer IIS)	</td><td>Data- and User-centered Conversational AI</td>
 </tr>
 <tr>
-<td></td><td> (153:00 - 16:30)</td><td>Basics of Conversational Design</td><td>Practice Session with Stephanie Hofmann (Fraunhofer IIS)</td><td>Retrospective</td>
+<td></td><td> (15:00 - 16:30)</td><td>Basics of Conversational Design</td><td>Practice Session with Stephanie Hofmann (Fraunhofer IIS)</td><td>Retrospective</td>
 </tr>
 	
 
