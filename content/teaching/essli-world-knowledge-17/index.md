@@ -15,6 +15,7 @@ external_link: ""
 image:
   caption: "credits: xkcd"
   focal_point: Smart
+---
 
 <h4>Description </h4>
 
