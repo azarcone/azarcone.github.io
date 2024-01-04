@@ -18,7 +18,7 @@ date: '2023-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-111-01T00:00:00Z'
+publishDate: '2023-11-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,8 +26,8 @@ publishDate: '2023-111-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: '*Proceedings of the 4rd Workshop on Evaluation & Comparison of NLP Systemss*'
+publication_short: '*Eval4NLP*'
 
 abstract: This study explores the capacity of large language models (LLMs) to efficiently generate summaries of informal educational content tailored for platforms like TikTok. It also investigates how both humans and LLMs assess the quality of these summaries, based on a series of experiments, exploring the potential replacement of human evaluation with LLMs. Furthermore, the study delves into how experienced content creators perceive the utility of automatic summaries for TikTok videos. We employ strategic prompt selection techniques to guide LLMs in producing engaging summaries based on the characteristics of viral TikTok content, including hashtags, captivating hooks, storytelling, and user engagement. The study leverages OpenAI's GPT-4 model to generate TikTok content summaries, aiming to align them with the essential features identified. By employing this model and incorporating human evaluation and expert assessment, this research endeavors to shed light on the intricate dynamics of modern content creation, where AI and human ingenuity converge. Ultimately, it seeks to enhance strategies for disseminating and evaluating educational information effectively in the realm of social media.
 
