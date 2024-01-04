@@ -1,5 +1,5 @@
 ---
-title: Supervision
+title: Thesis Supervision
 cms_exclude: true
 
 # View.
