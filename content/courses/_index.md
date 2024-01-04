@@ -15,5 +15,13 @@ view: 1
   #image: ""
 ---
 
+I am currently teaching the following courses:
+
+- Einführung in die maschinelle Sprachverarbeitung (SS, Wahlpflichtfach for B.Sc. and M.Sc. students of the Informatik Faculty, including Wirtschaftsinformatik, International Information Systems, Business Information Systems and Interaktive Medien, TH Augsburg)
+- Statistics (WS, B.Sc. International Information Systems, TH Augsburg)
+- Masterseminar (WS, M.Sc. Informatik and Business Information Systems, TH Augsburg)
+- Workshop "Introduction to scientific research" (SS and WS, M.Sc. Informatik, TH Augsburg)
+- Supervision of several student projects
+
 Course I taught / I am teaching<br/>
 <br/>

@@ -17,14 +17,14 @@ main:
     url: 'courses'
     parent: teaching
     weight: 10
-#  - name: Thesis Supervision
-#    url: 'supervision'
-#    parent: teaching
-#    weight: 20
-#  - name: Student Projects
-#    url: 'student_project'
-#    parent: teaching
-#    weight: 30
+  - name: Thesis Supervision
+    url: 'supervision'
+    parent: teaching
+    weight: 20
+  - name: Student Projects
+    url: 'student_project'
+    parent: teaching
+    weight: 30
   #- name: Further Education
   #  url: 'weiterbildung'
   #  parent: teaching
