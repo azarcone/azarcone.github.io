@@ -17,5 +17,5 @@ image:
   focal_point: Smart
 ---
 
-A half-day workshop for the industry partners of project SPEAKER at Fraunhofer IIS and Fraunhofer IAIS - co-taught with Oliver Walter and Michael Breiter.
+A half-day workshop for the industry partners of project SPEAKER at Fraunhofer IIS and Fraunhofer IAIS - June 2021, co-taught with Oliver Walter and Michael Breiter.
 The workshop covered basics and best practices in Intent Classification and Data Augmentation for ASR and NLU. 

@@ -21,7 +21,7 @@ image:
 
 <h4>Description </h4>
 
-A four-day course on statistics and R for linguists which I offered for the linguistics PhD students in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart.
+A four-day course on statistics and R for linguists which I offered for the linguistics PhD students in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart (September 2011).
 
 <h4>Schedule </h4>
 

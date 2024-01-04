@@ -7,7 +7,7 @@ summary: A workshop on Conversational AI for the students of Interaktive Mediens
 #- Logical Metonymy
 #- SFB732
 
-date: "2023-07-21T00:00:00Z"
+date: "2023-12-05T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

@@ -19,6 +19,6 @@ image:
 
 <h4>Description </h4>
 
-This was a quick 90-minute lesson on statistics and R for linguists which I offered for my peers in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart.
+This was a quick 90-minute lesson on statistics and R for linguists which I offered for my peers in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart (January 2011)..
 
 - [materials](GK_statistics.zip)
