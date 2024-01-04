@@ -15,7 +15,11 @@ view: 1
   #image: ""
 ---
 
-Are you interested in a thesis topic?
+<h4>Are you interested in a thesis topic?</h4>
+
+I supervise Bachelor's and Master's theses in the fields of NLP and HMI in all degree programs related to computer science (including Interaktive Medien, Interaktive Mediensysteme, International Information Systems, Wirtschaftsinformatik and Business Information Systems). To get an overview of possible topics, you can have a look at the theses I have already supervised on this page or browse my website to learn more about my research interests. Having attended my course "Einführung in die maschinelle Sprachverarbeitung" is recommended if you want to work on an NLP topic.
+
+If you are interested in writing your thesis under my supervision, please contact me by e-mail. If you already have an idea for a topic, please add a brief description. Please do not forget to indicate when you would like to start working on your thesis. 
 
 <h4>Past thesis supervision</h4>
 
