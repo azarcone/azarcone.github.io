@@ -18,12 +18,18 @@ view: 1
 <h4>Current Teaching</h4>
 
 <div class="view-list view-list-item"><i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-<a href="/courses/ims-workshop-23/">Workshop on Conversational AI (TH Augsburg, WS 2023/24)</a></div>
+<a href="https://moodle.hs-augsburg.de/course/view.php?id=6601">Einführung in die maschinelle Sprachverarbeitung (SS, Wahlpflichtfach for B.Sc. and M.Sc. students of the Informatik Faculty, TH Augsburg)</a></div>
 
-- Einführung in die maschinelle Sprachverarbeitung (SS, Wahlpflichtfach for B.Sc. and M.Sc. students of the Informatik Faculty, TH Augsburg)
-- Statistics (WS, B.Sc. International Information Systems, TH Augsburg)
-- Masterseminar (WS, M.Sc. Informatik and Business Information Systems, TH Augsburg)
-- Workshop "Introduction to scientific research" (SS and WS, M.Sc. Informatik, TH Augsburg)
-- Supervision of [student projects]({{< relref "../student_project/" >}}) and [theses]({{< relref "../supervision/" >}})
+<div class="view-list view-list-item"><i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+<a href="https://moodle.hs-augsburg.de/course/view.php?id=7537">Statistics (WS, B.Sc. International Information Systems, TH Augsburg)</a></div>
+
+<div class="view-list view-list-item"><i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+<a href="https://moodle.hs-augsburg.de/course/view.php?id=7125">Masterseminar (WS, M.Sc. Informatik and Business Information Systems, TH Augsburg)</a></div>
+
+<div class="view-list view-list-item"><i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+<a href="https://moodle.hs-augsburg.de/course/view.php?id=7319">Workshop "Introduction to scientific research" (SS and WS, M.Sc. Informatik, TH Augsburg)</a></div>
+
+<div class="view-list view-list-item"><i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+Supervision of <a href="../student_project/">student projects</a> and <a href="../supervision/">theses</a></div>
 
 <h4>Past Teaching</h4>
