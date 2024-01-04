@@ -51,10 +51,10 @@ The workshop offers an immersive learning experience centered on Conversational 
 <h4>Schedule </h4>
 <table>
 <th>
-<td></td><td></td><td>Day 1 (04/12/23)</td><td>Day 2 (05/12/23)</td><td>Day 3 (08/12/23)</td>
+<td></td><td>Day 1 (04/12/23)</td><td>Day 2 (05/12/23)</td><td>Day 3 (08/12/23)</td>
 </th>
 <tr>
-<td><b>Morning</b> </td><td> (09:00 - 10:30))</td>
+<td><b>Morning</b> </td><td> (09:00 - 10:30)</td>
 <td> Warm up & Organisation </td><td>Recap</td><td>Group Presentations: Presentation of Results, Lessons Learned</td>
 </tr>
 <tr>

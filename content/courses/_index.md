@@ -17,7 +17,6 @@ view: 1
 
 <h4>Current Teaching</h4>
 
-
 - Einführung in die maschinelle Sprachverarbeitung (SS, Wahlpflichtfach for B.Sc. and M.Sc. students of the Informatik Faculty, TH Augsburg)
 - Statistics (WS, B.Sc. International Information Systems, TH Augsburg)
 - Masterseminar (WS, M.Sc. Informatik and Business Information Systems, TH Augsburg)
@@ -26,5 +25,3 @@ view: 1
 
 
 <h4>Past Teaching</h4>
-<br/>
-
