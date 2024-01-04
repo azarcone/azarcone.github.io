@@ -1,6 +1,6 @@
 ---
-title: Greko - Musik auf Knopfdruck
-summary: ein KI basiertes Projekt, das mithilfe von gesammelten Lofi Musikclips und einem angepassten Diffusionsmodell neue Musik erzeugt - Platz 2 im Wettbewerb Beste Projekte
+title: Greko - Das grenzüberschreitende Kochbuch
+summary: GreKo ist eine App um Online-Rezepte, die viel zu viele unwichtige Informationen enthalten, durch Webscraping und Natural Language Processing auf die Anleitung und Zutatenliste zu reduzieren.
 tags:
   - student projects
   - Informatik Projekttag
