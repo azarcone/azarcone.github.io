@@ -48,38 +48,26 @@ The workshop offers an immersive learning experience centered on Conversational 
   <li>Bring your own laptop</li>
 </ul>
 
-
-<h4>When & Where </h4>
-
-Monday, 4. December 2023</br>
-Tuesday, 5. December 2023</br>
-Friday, 8. December 2023</br>
-
-<b>TH Augsburg
-Master Interactive Media Systems</b>
-<!-- <h3>Prerequisites </h3>
-
-<ul>
-  <li>very basic programming knowledge (python)</li>
-  <li>fascination with human-machine language interactions</li>
-</ul> -->
-
-
-<h4>Preliminary Schedule </h4>
+<h4>Schedule </h4>
 <table>
 <th>
-<td>Day 1</td><td>Day 2</td><td>Day 3</td>
+<td></td><td></td><td>Day 1 (04/12/23)</td><td>Day 2 (05/12/23)</td><td>Day 3 (08/12/23)</td>
 </th>
 <tr>
-<td><b>Morning</b>  (09:00 - 12:00)</td>
-<td>Theory: Intro to Conversational AI, Anatomy of a Dialogue Assistant</td><td>Theory:  Basics of Conversational Design</td><td>Hands-on Work on your Dialogue Assistant, Intent and Entity Recognition</td>
-</tr>
-<td><b>Afternoon</b>  (13:00 - 16:30)
-</td><td>Practice Session: Implementing a Basic Chatbot, Choosing a Use Case and Simulating Interactions</td><td>Practice Session: Dialogue Management, Conversation Flow</td><td>Group Presentations: Presentation of Results, Lessons Learned</td>
+<td><b>Morning</b> </td><td> (09:00 - 10:30))</td>
+<td> Warm up & Organisation </td><td>Recap</td><td>Group Presentations: Presentation of Results, Lessons Learned</td>
 </tr>
 <tr>
-<td></td><td></td><td></td><td></td>
+<td></td><td>(10:50 - 12:20) </td><td>Human communication vs. Conversational AI</td> <td>Introduction to the Allinga Dialogue Editor</td> <td> Evaluation of ConvAI Systems, Multimodality </td>
 </tr>
+<tr>
+<td><b>Afternoon</b>   </td><td> (13:10 - 14:40)</td>
+<td>Introduction to Dialogue Systems</td></td><td>Practice Session with Stephanie Hofmann (Fraunhofer IIS)	</td><td>Data- and User-centered Conversational AI</td>
+</tr>
+<tr>
+<td></td><td> (153:00 - 16:30)</td><td>Basics of Conversational Design</td><td>Practice Session with Stephanie Hofmann (Fraunhofer IIS)</td><td>Retrospective</td>
+</tr>
+	
 
 </table>
 
