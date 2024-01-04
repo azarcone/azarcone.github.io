@@ -1,5 +1,5 @@
 ---
-title: Seminar "Salience and Predictability: attention, accessibility and Surprisal" (Uni Saarland, WS 2015/16)
+title: "Seminar on Salience and Predictability: attention, accessibility and Surprisal (Uni Saarland, WS 2015/16)"
 summary: A seminar 
 #tags:
 #- Complement Coercion
