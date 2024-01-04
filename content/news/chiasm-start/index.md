@@ -1,6 +1,6 @@
 ---
 title: CHIASM-Projekt bewilligt!
-date: '2024-01-03'
+date: '2023-10-29'
 summary: Das CHIASM-Projekt (Chancenreiche industrielle Anwendung für vortrainierte Sprachmodelle) wurde bewilligt.
 ---
 
