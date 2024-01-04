@@ -21,7 +21,7 @@ I am currently teaching the following courses:
 - Statistics (WS, B.Sc. International Information Systems, TH Augsburg)
 - Masterseminar (WS, M.Sc. Informatik and Business Information Systems, TH Augsburg)
 - Workshop "Introduction to scientific research" (SS and WS, M.Sc. Informatik, TH Augsburg)
-- Supervision of several [student projects]({{< relref "../student_project/" >}})
+- Supervision of several [student projects]({{< relref "../student_project/" >}}) and [theses]({{< relref "../supervision/" >}})
 
 
 Course I taught / I am teaching<br/>
