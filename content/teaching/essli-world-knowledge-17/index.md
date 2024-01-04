@@ -13,7 +13,7 @@ date: "2017-07-17T00:00:00Z"
 external_link: ""
 
 image:
-  caption: "credits: xkcd"
+  caption: "credits: James Pustejovsky"
   focal_point: Smart
 ---
 

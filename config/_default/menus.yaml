@@ -7,11 +7,16 @@ main:
   #- name: Home
   #  url: '#about'
   #  weight: 10
-  - name: Teaching
+  - name: Teaching Activities
+    identifier: teaching
+    weight: 10
+  - name: Courses
     url: 'teaching'
+    parent: teaching
     weight: 10
   - name: Supervision
     url: 'supervision'
+    parent: teaching
     weight: 20
   - name: Publications
     url: 'publication'
