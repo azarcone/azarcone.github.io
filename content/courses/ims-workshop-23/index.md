@@ -1,5 +1,5 @@
 ---
-title: Workshop on Conversational AI (Winter Semester 2023/24)
+title: Workshop on Conversational AI (TH Augsburg, WS 2023/24)
 summary: A workshop on Conversational AI for the students of Interaktive Mediensysteme
 #tags:
 #- Complement Coercion

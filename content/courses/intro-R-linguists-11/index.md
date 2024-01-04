@@ -1,5 +1,5 @@
 ---
-title: An introduction to statistics for linguists
+title: An introduction to statistics for linguists (Uni Stuttgart, September 2011)
 summary: A four-day course on statistics and R for Phd Students of Linguistics
 #tags:
 #- Complement Coercion
@@ -19,7 +19,7 @@ image:
 
 <h4>Description </h4>
 
-A four-day course on statistics and R for Phd Students of Linguistics in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart (September 2011).
+A four-day course on statistics and R for Phd Students of Linguistics in the Graduiertenkolleg of the SFB 732 at Universität Stuttgart.
 
 <h4>Schedule </h4>
 

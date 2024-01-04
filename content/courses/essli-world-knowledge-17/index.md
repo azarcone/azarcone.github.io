@@ -1,5 +1,5 @@
 ---
-title: Explicit world-knowledge and distributional semantic representations (with Asad Sayeed, ESSLI, July 2017)
+title: Explicit world-knowledge and distributional semantic representations (ESSLI, July 2017)
 summary: A course for the ESSLI summer school on world knowledge and distributional semantics
 #tags:
 #- Complement Coercion

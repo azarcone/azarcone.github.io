@@ -1,5 +1,5 @@
 ---
-title: 2nd  SPEAKER Data Annotation Workshop
+title: 2nd  SPEAKER Data Annotation Workshop (Fraunhofer IIS & Fraunhofer IAIS, June 2021)
 summary: A workshop on data annotation for dialogue systems for the industry partners of SPEAKER
 #tags:
 #- Complement Coercion
