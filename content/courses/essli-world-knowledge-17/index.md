@@ -1,6 +1,6 @@
 ---
 title: Explicit world-knowledge and distributional semantic representations (with Asad Sayeed, ESSLI, July 2017)
-summary: ESSLI-17
+summary: A course for the ESSLI summer school on world knowledge and distributional semantics
 #tags:
 #- Complement Coercion
 #- Generalized Event Knowledge
@@ -23,7 +23,7 @@ This is an interdisciplinary course intended to bring together students from psy
 
 <i>(This course was prepared in collaboration with Asad Sayeed, but was eventually taught by him as I was on maternity leave.)</i>
 
-<b>European Summer School of Logic, Language, and Information (ESSLLI 2017, Toulouse, France)</b>
+<b>European Summer School of Logic, Language, and Information (ESSLLI 2017, Toulouse, France) - Language and Computation (Advanced)</b>
 
 <h4>Schedule </h4>
 
