@@ -17,39 +17,50 @@ main:
     url: 'courses'
     parent: teaching
     weight: 10
-  - name: Thesis Supervision
-    url: 'supervision'
-    parent: teaching
-    weight: 20
-  - name: Student Projects
-    url: 'student_project'
-    parent: teaching
-    weight: 30
+#  - name: Thesis Supervision
+#    url: 'supervision'
+#    parent: teaching
+#    weight: 20
+#  - name: Student Projects
+#    url: 'student_project'
+#    parent: teaching
+#    weight: 30
   #- name: Further Education
   #  url: 'weiterbildung'
   #  parent: teaching
   #  weight: 30
-  - name: Publications
-    identifier: publications
-    weight: 30
-  - name: Published Work
-    url: 'publication'
-    parent: publications
-    weight: 10
-  - name: Datasets
-    url: 'dataset'
-    parent: publications
-    weight: 20
-  - name: Research Activities
-    identifier: research
-    weigth: 10
-  - name: Projects
-    url: '#projects'
-    parent: research
-    weigth: 20
-  - name: Talks & Outreach
-    url: 'event'
-    weight: 50
+#  - name: Publications
+#    identifier: publications
+#    weight: 30
+#  - name: Published Work
+#    url: 'publication'
+#    parent: publications
+#    weight: 10
+#  - name: Datasets
+#    url: 'dataset'
+#    parent: publications
+#    weight: 20
+#  - name: Research Activities
+#    identifier: research
+#    weigth: 40
+#  - name: Projects
+#    url: '#projects'
+#    parent: research
+#    weigth: 10
+#  - name: Talks & Outreach
+#    identifier: events
+#    weight: 50
+#  - name: Invited Talks
+#    url: 'talk'
+#    parent: events
+#    weight: 10
+#  - name: Media 
+#    url: 'media'
+#    weight: 20
+#  - name: Outreach Activities
+#    url: 'outreach'
+#    parent: events
+#    weight: 30
   - name: News
     url: '#news'
     weight: 60
