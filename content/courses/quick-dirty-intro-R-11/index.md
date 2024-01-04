@@ -1,5 +1,5 @@
 ---
-title: A quick and dirty introduction to R for linguists (Uni Stuttgart, January 2011)
+title: A quick and dirty introduction to R (Uni Stuttgart, January 2011)
 summary: A quick 90-minute lesson on statistics and R for Phd Students (Graduiertenkolleg, SFB 732)
 #tags:
 #- Complement Coercion
@@ -19,6 +19,6 @@ image:
 
 <h4>Description </h4>
 
-This was a quick 90-minute lesson on statistics and R for Phd Students in the Graduiertenkolleg of the SFB 732 at Universität Stuttgart (January 2011).
+This was a quick 90-minute lesson on statistics and R for Phd Students in the Graduiertenkolleg of the SFB 732 at Universität Stuttgart.
 
 - [Slides](GK_statistics.zip)

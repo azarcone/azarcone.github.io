@@ -1,6 +1,6 @@
 ---
-title: "Seminar on Salience and Predictability: attention, accessibility and Surprisal (Uni Saarland, WS 2015/16)"
-summary: A seminar 
+title: "Seminar on Salience and Predictability: Attention, Accessibility and Surprisal (Uni Saarland, WS 2015/16)"
+summary: "A seminar on Salience and Predictability: Attention, Accessibility and Surprisal"
 #tags:
 #- Complement Coercion
 #- Generalized Event Knowledge
@@ -17,7 +17,7 @@ image:
   focal_point: Smart
 ---
 
-A half-day workshop for B.Sc. / M.Sc. Students at the Universität des Saarlandes (Computational Linguistics and Psychology) - WS 2015/16, co-taught with Vera Demberg. 
+A seminar for B.Sc. / M.Sc. Students at the Universität des Saarlandes (Computational Linguistics and Psychology) - WS 2015/16, co-taught with Vera Demberg. 
 
 This course focused on the relationship between salience and information theory. Salient, relevant stimuli capture our attention, and the notion of salience has been widely employed in linguistics (e.g. perceptual salience in the visual world, semantic-pragmatic salience of referents, acoustic salience). A different line of research accounts for language comprehension using information-theoretic notions, such as predictability and surprisal. Salience accounts and surprisal accounts focus on different aspects of comprehension. Surprisal accounts focus on the comprehender's expectations about what will follow next: high prediction error is associated with high cognitive load. Salience accounts on the other hand are concerned with the comprehender's attention, goal and situation.
 
