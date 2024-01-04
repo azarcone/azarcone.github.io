@@ -1,6 +1,6 @@
 ---
-title: A quick and dirty introduction to R for linguists (Graduiertenkolleg, SFB 732)
-summary: A quick 90-minute lesson on statistics and R for linguists
+title: A quick and dirty introduction to R for linguists 
+summary: A quick 90-minute lesson on statistics and R for Phd Students (Graduiertenkolleg, SFB 732)
 #tags:
 #- Complement Coercion
 #- Generalized Event Knowledge
@@ -19,6 +19,6 @@ image:
 
 <h4>Description </h4>
 
-This was a quick 90-minute lesson on statistics and R for linguists which I offered for my peers in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart (January 2011)..
+This was a quick 90-minute lesson on statistics and R for Phd Students in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart (January 2011)..
 
 - [materials](GK_statistics.zip)

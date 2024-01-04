@@ -1,8 +1,6 @@
 ---
-title: An introduction to statistics for linguists, for Phd Students
-#Blockseminar mit Übungen über experimentelles Design und Staristische Analyse mit R
-#für Promotionsstudenten der Institut für Linguistik an der Universität Stuttgart (Graduiertenkolleg, SFB 732)
-summary: A four-day course on statistics and R for linguists
+title: An introduction to statistics for linguists
+summary: A four-day course on statistics and R for Phd Students of Linguistics
 #tags:
 #- Complement Coercion
 #- Generalized Event Knowledge
@@ -21,7 +19,7 @@ image:
 
 <h4>Description </h4>
 
-A four-day course on statistics and R for linguists which I offered for the linguistics PhD students in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart (September 2011).
+A four-day course on statistics and R for Phd Students of Linguistics in the Graduiertenkolleg of the SFB 732 at Uni Stuttgart (September 2011).
 
 <h4>Schedule </h4>
 
