@@ -36,13 +36,13 @@ main:
 #    url: 'dataset'
 #    parent: publications
 #    weight: 20
-#  - name: Research Activities
-#    identifier: research
-#    weigth: 40
-#  - name: Projects
-#    url: 'project'
-#    parent: research
-#    weigth: 10
+  - name: Research Activities
+    identifier: research
+    weigth: 40
+  - name: Research Projects
+    url: 'project'
+    parent: research
+    weigth: 10
 #  - name: Talks & Outreach
 #    identifier: events
 #    weight: 50
