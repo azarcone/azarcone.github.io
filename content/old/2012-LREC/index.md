@@ -1,9 +1,9 @@
 ---
-title: '“I like work: I can sit and look at it for hours” - Type clash vs. plausibility in covert event recovery'
+title: "Logical metonymies and qualia structures: an annotated database of logical metonymies for German"
 authors:
+- Stefan Rüd
 - admin
-- Sebastian Padó
-date: "2010-11-04T00:00:00Z"
+date: "2012-05-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,12 +16,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the Interdisciplinary Workshop on Verbs - The Identification and Representation of Verb Features (Verb 2010)*'
-publication_short: '*Verb 2010*'
+publication: '*Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2008)*'
+publication_short: '*LREC 2012*'
 
-abstract: "A range of event-subcategorizing verbs can combine with entity-denoting nouns, like <i>begin the newspaper</i>. The interpretation of such sentences typically involves the recovery of covert events (CE) which are not realized on the surface, as in <i>.begin reading the newspaper</i>.. We report on an ongoing study that scrutinizes two assumptions made by
-traditional accounts: (a) that the triggering of CEs can be ascribed to the object’s ontological type; and (b), that one or two CEs
-can be retrieved for each noun. Preliminary evidence against both assumptions is presented."
+abstract: "Logical metonymies like <i>The author began the book</i> involve the interpretation of events that are not realized in the sentence (Covert events: -> <i>writing the book</i>). The Generative Lexicon (Pustejovsky 1995) provides a qualia-based account of covert event interpretation, claiming that the covert event is retrieved from the qualia structure of the object. Such a theory poses the question of to what extent covert events in logical metonymies can be accounted for by qualia structures. Building on previous work on English, we present a corpus study for German verbs (<i>anfangen (mit)</i>, <i>aufhören (mit)</i>, <i>beenden</i>, <i>beginnen (mit)</i>, <i>geniessen</i>, based on data obtained from the deWaC corpus. We built a corpus of logical metonymies, which were manually annotated and compared with the qualia structures of their objects, then we contrasted annotation results from two expert annotators for metonymies (<i>The author began the book</i>) and long forms (<i>The author began reading the book</i>) across verbs. Our annotation was evaluated on a sample of sentences annotated by a group of naive annotators on a crowdsourcing platform. The logical metonymy database (2661 metonymies and 1886 long forms) with two expert annotations is freely available for scientific research purposes."
+
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,23 +28,21 @@ can be retrieved for each noun. Preliminary evidence against both assumptions is
 tags:
 - annotation
 - complement coercion
-- crowdsourcing
 - logical metonymy
 - lexical meaning in context
-- plausibility
 - type clash
 
 featured: false
 
-#links:
-#- name: escholarship
-#  url: https://escholarship.org/uc/item/qt0cj4j93h
-url_pdf: 'publication/2010-verb1/Verb2010_paper_ZP.pdf'
+links:
+- name: ACL Anthology
+  url: 'https://aclanthology.org/L12-1105/'
+url_pdf: 'http://www.lrec-conf.org/proceedings/lrec2012/pdf/259_Paper.pdf'
 url_code: ''
-url_dataset: ''
-url_poster: 'Verb2010_poster_ZP.pdf'
+url_dataset: 'https://www.ims.uni-stuttgart.de/en/research/resources/lexica/glmd/'
+url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'LREC2012_slides.pdf'
 url_source: ''
 url_video: ''
 
@@ -62,7 +59,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- d6
 #- internal-project
 
 # Slides (optional).

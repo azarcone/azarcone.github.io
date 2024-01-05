@@ -1,9 +1,12 @@
 ---
-title: "Logical metonymies and qualia structures: an annotated database of logical metonymies for German"
+title: "The curious case of metonymic verbs: A distributional characterization"
 authors:
-- Stefan Rüd
+- Jason Utt
+- Alessandro Lenci
+- Sebastian Padó
 - admin
-date: "2012-05-21T00:00:00Z"
+
+date: "2013-03-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,33 +19,46 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2008)*'
-publication_short: '*LREC 2012*'
+publication: '*Proceedings of the IWCS 2013 Workshop "Towards a Formal Distributional Semantics"*'
+publication_short: '*TFDS Workshop*'
 
-abstract: "Logical metonymies like <i>The author began the book</i> involve the interpretation of events that are not realized in the sentence (Covert events: -> <i>writing the book</i>). The Generative Lexicon (Pustejovsky 1995) provides a qualia-based account of covert event interpretation, claiming that the covert event is retrieved from the qualia structure of the object. Such a theory poses the question of to what extent covert events in logical metonymies can be accounted for by qualia structures. Building on previous work on English, we present a corpus study for German verbs (<i>anfangen (mit)</i>, <i>aufhören (mit)</i>, <i>beenden</i>, <i>beginnen (mit)</i>, <i>geniessen</i>, based on data obtained from the deWaC corpus. We built a corpus of logical metonymies, which were manually annotated and compared with the qualia structures of their objects, then we contrasted annotation results from two expert annotators for metonymies (<i>The author began the book</i>) and long forms (<i>The author began reading the book</i>) across verbs. Our annotation was evaluated on a sample of sentences annotated by a group of naive annotators on a crowdsourcing platform. The logical metonymy database (2661 metonymies and 1886 long forms) with two expert annotations is freely available for scientific research purposes."
-
+abstract: "Logical metonymy combines an event-selecting verb with an entity-denoting noun (e.g., <i>The
+writer began the novel</i>), triggering a covert event interpretation (e.g., <i>reading, writing</i>). Experimental
+investigations of logical metonymy must assume a binary distinction between metonymic (i.e. event-selecting) verbs and non-metonymic verbs to establish a control condition. However, this binary
+distinction (whether a verb is metonymic or not) is mostly made on intuitive grounds, which introduces
+a potential confounding factor.
+We describe a corpus-based approach which characterizes verbs in terms of their behavior at
+the syntax-semantics interface. The model assesses the extent to which transitive verbs prefer
+event-denoting objects over entity-denoting objects. We then test this “eventhood” measure on
+psycholinguistic datasets, showing that it can distinguish not only metonymic from non-metonymic
+verbs, but that it can also capture more fine-grained distinctions among different classes of metonymic
+verbs, putting such distinctions into a new graded perspective."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- annotation
-- complement coercion
-- logical metonymy
+- Complement Coercion
+- distributional semantics
+- expectation-based processing
+- Logical Metonymy
 - lexical meaning in context
 - type clash
+- typicality
+- world knowledge
+
 
 featured: false
 
 links:
 - name: ACL Anthology
-  url: 'https://aclanthology.org/L12-1105/'
-url_pdf: 'http://www.lrec-conf.org/proceedings/lrec2012/pdf/259_Paper.pdf'
+  url: https://aclanthology.org/W13-0604/
+url_pdf: 'https://aclanthology.org/W13-0604.pdf'
 url_code: ''
-url_dataset: 'https://www.ims.uni-stuttgart.de/en/research/resources/lexica/glmd/'
+url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'LREC2012_slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -59,7 +75,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: 
+- d6
 #- internal-project
 
 # Slides (optional).

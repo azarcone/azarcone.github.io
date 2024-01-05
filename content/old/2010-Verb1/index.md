@@ -1,12 +1,9 @@
 ---
-title: "The curious case of metonymic verbs: A distributional characterization"
+title: '“I like work: I can sit and look at it for hours” - Type clash vs. plausibility in covert event recovery'
 authors:
-- Jason Utt
-- Alessandro Lenci
-- Sebastian Padó
 - admin
-
-date: "2013-03-19T00:00:00Z"
+- Sebastian Padó
+date: "2010-11-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,44 +16,34 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the IWCS 2013 Workshop "Towards a Formal Distributional Semantics"*'
-publication_short: '*TFDS Workshop*'
+publication: '*Proceedings of the Interdisciplinary Workshop on Verbs - The Identification and Representation of Verb Features (Verb 2010)*'
+publication_short: '*Verb 2010*'
 
-abstract: "Logical metonymy combines an event-selecting verb with an entity-denoting noun (e.g., <i>The
-writer began the novel</i>), triggering a covert event interpretation (e.g., <i>reading, writing</i>). Experimental
-investigations of logical metonymy must assume a binary distinction between metonymic (i.e. event-selecting) verbs and non-metonymic verbs to establish a control condition. However, this binary
-distinction (whether a verb is metonymic or not) is mostly made on intuitive grounds, which introduces
-a potential confounding factor.
-We describe a corpus-based approach which characterizes verbs in terms of their behavior at
-the syntax-semantics interface. The model assesses the extent to which transitive verbs prefer
-event-denoting objects over entity-denoting objects. We then test this “eventhood” measure on
-psycholinguistic datasets, showing that it can distinguish not only metonymic from non-metonymic
-verbs, but that it can also capture more fine-grained distinctions among different classes of metonymic
-verbs, putting such distinctions into a new graded perspective."
+abstract: "A range of event-subcategorizing verbs can combine with entity-denoting nouns, like <i>begin the newspaper</i>. The interpretation of such sentences typically involves the recovery of covert events (CE) which are not realized on the surface, as in <i>.begin reading the newspaper</i>.. We report on an ongoing study that scrutinizes two assumptions made by
+traditional accounts: (a) that the triggering of CEs can be ascribed to the object’s ontological type; and (b), that one or two CEs
+can be retrieved for each noun. Preliminary evidence against both assumptions is presented."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Complement Coercion
-- distributional semantics
-- expectation-based processing
-- Logical Metonymy
+- annotation
+- complement coercion
+- crowdsourcing
+- logical metonymy
 - lexical meaning in context
+- plausibility
 - type clash
-- typicality
-- world knowledge
-
 
 featured: false
 
-links:
-- name: ACL Anthology
-  url: https://aclanthology.org/W13-0604/
-url_pdf: 'https://aclanthology.org/W13-0604.pdf'
+#links:
+#- name: escholarship
+#  url: https://escholarship.org/uc/item/qt0cj4j93h
+url_pdf: 'publication/2010-verb1/Verb2010_paper_ZP.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'Verb2010_poster_ZP.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
@@ -75,8 +62,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
-#- internal-project
+projects: 
+- d6
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

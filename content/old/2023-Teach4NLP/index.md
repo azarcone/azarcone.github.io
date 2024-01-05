@@ -41,6 +41,7 @@ tags:
 - semantic similarity
 - teachingNLP
 - NLU
+- industrial NLP
 
 # Display this page in the Featured widget?
 featured: true
