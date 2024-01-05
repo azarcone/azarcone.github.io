@@ -39,9 +39,9 @@ tags:
 featured: true
 
 links:
-#- name: ACL Anthology
-#  url: https://aclanthology.org/2021.nlp4convai-1.6/
-url_pdf: ''
+- name: ACL Anthology
+  url: 'https://aclanthology.org/2022.gem-1.30/'
+url_pdf: 'https://aclanthology.org/2022.gem-1.30.pdf'
 url_code: ''
 url_dataset: 'http://dx.doi.org/10.24406/fordatis/226'
 url_poster: 'GEM_poster.pdf'
