@@ -1,6 +1,6 @@
 ---
-title: "D6: Lexical-semantic factors in event interpretation (2010-2014)"
-summary: An example of using the in-built project page.
+title: D6, SFB 732 (2010-2014)
+summary: Lexical-semantic factors in event interpretation
 tags:
 - Complement Coercion
 - Generalized Event Knowledge
@@ -12,7 +12,7 @@ date: '2010-01-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Logical Metonymy Interpretation
+  caption: ""
   focal_point: Smart
 
 #links:

@@ -1,6 +1,6 @@
 ---
 title: SPEAKER Project (2020-2023)
-summary: Eine Sprachassistenzplattform `Made in Germany`
+summary: Eine Sprachassistenzplattform 'Made in Germany'
 tags:
   - dialogue systems
   - conversational AI
