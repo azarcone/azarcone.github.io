@@ -1,12 +1,18 @@
 ---
 title: A3, SFB 1102 (Universität des Saarlandes, 2014-2018)
-summary: Lexical-semantic factors in event interpretation
+summary: Modelling the Information Density of Event Sequences in Texts
+Project
 tags:
-- Complement Coercion
-- Generalized Event Knowledge
-- Logical Metonymy
-- SFB732
-date: '2010-01-01T00:00:00Z'
+- psycholinguistics
+- NLP
+- crowdsourcing
+- script knowledge
+- world knowledge
+- cognitive modeling
+- predictability
+- SFB1102
+- surprisal
+date: '2014-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
