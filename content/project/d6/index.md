@@ -36,6 +36,8 @@ slides: ""
 
 <p><b>Principal Investigators: Sebastian Padó, Sabine Schulte im Walde<br clear="none">Researchers: Alessandra Zarcone, Jason Utt<br clear="none">Associated Ph.D. Student: Gabriella Lapesa </b></p>
 
+- <b><a href="https://gepris.dfg.de/gepris/projekt/178623049" target="_blank">Funding information here</a></b>
+
 <p>Project D6 was concerned with a particular phenomenon of incremental specification in context, namely the interpretation of verb-object pairs. While some verb-object pairs are interpreted compositionally ("simple composition", as in <em>begin a holiday</em>), the understanding of others involves covert events that are not realised on the surface ("enriched composition": for example, <em>begin a song</em>, in neutral context, implies <em>begin <underline>singing</underline> a song</em>).</p>
 <p>The interpretation of such pairs involves two specification steps:<br clear="none">(1) the decision between simple and enriched composition;<br clear="none">(2) in enriched composition, the specification of the covert event.</p>
 <p>The project used psycholinguistic and computational techniques to elucidate the as yet neglected role of lexical-semantic context factors. Concretely, the literature about step (1) assumes that the ontological type of the object (event/object) is the main determinant. Since this is arguably an oversimplification, it collected and modeled experimental data on:<br clear="none">(a) the behaviour of ambiguous nominalisations and nouns;<br clear="none">(b) the respective influence of ontological type and plausibility;<br clear="none">(c) the role played by aspectual features.</p>
@@ -44,4 +46,3 @@ slides: ""
 <p>Finally, it extended the scope of our core results in three ways.<br clear="none">(1) We phrased the recovery of covert event interpretations as an entailment task, to make our phenomenon accessible to a larger audience in computational semantics;<br clear="none">(2) We studied a related phenomenon, namely Italian <em>da</em>-nominals, which also imply covert events, e.g.<br clear="none"><em>scatola da scarpe</em> / <em>shoe box</em> -&gt; <em>box <span class="c6">to store</span> shoes</em>;<br clear="none">(3) We developed a distributional-driven characterisation of constructions whose interpretation involves covert events.</p>
 
 - The <a title="Metonymy2011" href="https://www.ims.uni-stuttgart.de/institut/aktuelles/veranstaltung/Metonymy-2011/" target="_blank">Metonymy 2011</a> workshop (Stuttgart, 15th-16th September 2011) was part of the project activities.
-- <b><a href="https://gepris.dfg.de/gepris/projekt/178623049" target="_blank">Funding information here</a></b>
