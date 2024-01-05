@@ -1,12 +1,12 @@
 ---
-title: D6, SFB 732 (Universität Stuttgart, 2010-2014)
-summary: Lexical-semantic factors in event interpretation
+title: A2, SFB 1102 (Universität des Saarlandes, 2014-2018)
+summary: Script Knowledge for Modelling Semantic Expectation
 tags:
 - Complement Coercion
 - Generalized Event Knowledge
 - Logical Metonymy
 - SFB732
-date: '2010-01-01T00:00:00Z'
+date: '2014-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
