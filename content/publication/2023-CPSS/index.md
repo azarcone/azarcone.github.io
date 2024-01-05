@@ -33,7 +33,15 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: 
+- evaluation
+- fine-tuning
+- large language models
+- paraphrase
+- semantic textual similarity
+- semantic similarity
+- social media
+- style transfer
 
 # Display this page in the Featured widget?
 featured: true
