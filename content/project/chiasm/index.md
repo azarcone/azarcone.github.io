@@ -9,7 +9,7 @@ tags:
 date: "2024-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: [https://www.speaker.fraunhofer.de/en/](../speaker)
+external_link: https://www.tha.de/Informatik/CHIASM.html
 
 image:
   caption: ''
