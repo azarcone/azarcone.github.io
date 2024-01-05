@@ -40,7 +40,7 @@ main:
     identifier: research
     weigth: 40
   - name: Projects
-    url: '#projects'
+    url: 'project'
     parent: research
     weigth: 10
 #  - name: Talks & Outreach
