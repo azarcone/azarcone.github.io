@@ -25,13 +25,13 @@ main:
     url: 'supervision'
     parent: teaching
     weight: 30
-#  - name: Publications
-#    identifier: publications
-#    weight: 30
-#  - name: Published Work
-#    url: 'publication'
-#    parent: publications
-#    weight: 10
+  - name: Publications
+    identifier: publications
+    weight: 30
+  - name: Published Work
+    url: 'publication'
+    parent: publications
+    weight: 10
 #  - name: Datasets
 #    url: 'dataset'
 #    parent: publications
