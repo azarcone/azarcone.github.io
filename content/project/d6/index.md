@@ -1,5 +1,5 @@
 ---
-title: D6, SFB 732 (Universität Stuttgart, 2010-2014)
+title: D6, SFB 732 (Universität Stuttgart, 2010-2013)
 summary: Lexical-semantic factors in event interpretation
 tags:
 - Complement Coercion

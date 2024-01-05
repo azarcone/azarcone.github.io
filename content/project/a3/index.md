@@ -1,5 +1,5 @@
 ---
-title: A3, SFB 1102 (Universität des Saarlandes, 2014-2018)
+title: A3, SFB 1102 (Universität des Saarlandes, 2014-2017)
 summary: Modelling the Information Density of Event Sequences in Texts
 tags:
 - psycholinguistics

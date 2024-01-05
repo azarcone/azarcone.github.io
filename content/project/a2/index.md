@@ -1,5 +1,5 @@
 ---
-title: A2, SFB 1102 (Universität des Saarlandes, 2014-2018)
+title: A2, SFB 1102 (Universität des Saarlandes, 2014-2017)
 summary: Script Knowledge for Modelling Semantic Expectation
 tags:
 - NLP
