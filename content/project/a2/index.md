@@ -43,4 +43,4 @@ slides: ""
 
 <p>Project A2 was concerned with the development of wide-coverage, automatic methods for acquiring script knowledge, thus addressing the absence of such script knowledge bases. Since script event sequences are rarely explicit in natural prose, the project used crowd-sourcing methods to create suitable corpora for script acquisition. These  then served as the input for novel script-mining algorithms which were used to induce psychologically plausible probabilistic script-automata representations.</p>
 
-<p>Finally, distributional models were applied to determine the semantic similarity of linguistic expressions, as conditioned by script knowledge – methods that are essential for applying scripts to real texts. The script resources created in this project informed the development of experimental stimuli in A1, and were used and evaluated directly in the models developed in A3.</p>
+<p>Finally, distributional models were applied to determine the semantic similarity of linguistic expressions, as conditioned by script knowledge – methods that are essential for applying scripts to real texts.</p>
