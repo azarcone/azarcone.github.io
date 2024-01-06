@@ -43,7 +43,7 @@ The models successfully replicated the pattern of results of the psycholinguisti
 fit for metonymic verbs combined with entity-denoting objects, and a main effect of object type (entity-denoting vs. event-denoting;
 <i>**sum, ***product, ***verb-only</i>), and a significant verb-object interaction (<i>**sum, **verb-only</i>). All models
 yielded a better thematic fit for event-denoting than for entity-denoting objects on the whole dataset (<i>**sum, ***product,
-***verb-only</i>), for metonymic verbs (***sum, **product, ***verb-only), but not for non-metonymic verbs. The pattern of
+***verb-only</i>), for metonymic verbs (<i>***sum, **product, ***verb-only</i>), but not for non-metonymic verbs. The pattern of
 results of the psycholinguistic experiment was replicated not only by models incorporating the subject (<i>sum</i> and <i>product</i>), but
 also by the verb-only model, thus suggesting the measured effect is not ascribable to an effect of subject only, but is indeed
 due to the verb-object interaction.
