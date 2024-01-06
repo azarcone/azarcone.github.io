@@ -4,7 +4,7 @@ authors:
 - admin
 - Jason Utt
 - Alessandro Lenci
-date: "2013-09-02T00:00:00Z"
+date: "2012-09-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,27 +29,25 @@ Type clashes and selectional restriction violations are widely invoked in lingui
 psycholinguistics suggests that these phenomena might be better captured via graded notions such as typicality and thematic
 fit. For example, some of the materials of Traxler and colleagues’ seem to favor event-denoting items via a better thematic fit
 (***The pastor*** *finished/prepared the* ***funeral*** */sandwich*).
-
-A Similarity-Based model of Type Clash
+<br />
 Similarity-based frameworks such as Distributional Memory and ECU described in Lenci (2011) lend themselves particularly
 well to modeling the graded effect of thematic fit and expectation about upcoming arguments in sentence processing. We
-contrast three ECU-based models: verb-only, sum and product. Verb-only exploits expectations coming from the verb to
-yield the thematic fit for a filler in a given object argument position (e.g. for sandwich and prepare); the other two models do
-the same by combining expectations from subject and verb (e.g. for sandwich and <pastor, prepare>) by means of two
-different functions (sum and product)1. We use the models to (1) mirror the results from Traxler and colleagues; (2) contrast
+contrast three ECU-based models: <i>verb-only, sum</i> and <i>product</i>. <i>Verb-only</i> exploits expectations coming from the verb to
+yield the thematic fit for a filler in a given object argument position (e.g. for <i>sandwich</i> and <i>prepare</i>); the other two models do
+the same by combining expectations from subject and verb (e.g. for <i>sandwich</i> and <i><pastor, prepare></i>) by means of two
+different functions (<i>sum</i> and <i>product</i>). We use the models to (1) mirror the results from Traxler and colleagues; (2) contrast
 expectations coming from the verb and expectations coming from the composition of subject and verb, in order to evaluate
 whether the type-clash effect might be due to a cueing effect of the subject; (3) suggest an alternative account of logical
 metonymy interpretation which re-defines the binary notion of type-clash in more graded terms, i.e. as thematic fit.
 The models successfully replicated the pattern of results of the psycholinguistic experiment, yielding the lowest thematic
-fit for metonymic verbs combined with entity-denoting objects, and a main effect of object type (entity-denoting vs. eventdenoting;
-**sum, ***product, ***verb-only2), and a significant verb-object interaction (**sum, **verb-only). All models
-yielded a better thematic fit for event-denoting than for entity-denoting objects on the whole dataset (**sum, ***product,
-***verb-only), for metonymic verbs (***sum, **product, ***verb-only), but not for non-metonymic verbs. The pattern of
-results of the psycholinguistic experiment was replicated not only by models incorporating the subject (sum and product), but
+fit for metonymic verbs combined with entity-denoting objects, and a main effect of object type (entity-denoting vs. event-denoting;
+<i>**sum, ***product, ***verb-only</i>), and a significant verb-object interaction (<i>**sum, **verb-only</i>). All models
+yielded a better thematic fit for event-denoting than for entity-denoting objects on the whole dataset (<i>**sum, ***product,
+***verb-only</i>), for metonymic verbs (***sum, **product, ***verb-only), but not for non-metonymic verbs. The pattern of
+results of the psycholinguistic experiment was replicated not only by models incorporating the subject (<i>sum</i> and <i>product</i>), but
 also by the verb-only model, thus suggesting the measured effect is not ascribable to an effect of subject only, but is indeed
 due to the verb-object interaction.
-The models’ success in replicating the results from the psycholinguistic experiments shows that similarity-based models
-are an adequate tool to model phenomena such"
+The models’ success in replicating the results from the psycholinguistic experiments shows that similarity-based models are an adequate tool to model phenomena such as selectional preferences and logical metonymy, suggesting that they can both be accounted for in terms of thematic fit."
 
 
 # Summary. An optional shortened abstract.
