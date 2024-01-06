@@ -68,9 +68,9 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'AMLaP2012_poster.pdf'
+url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'AMLaP2012_slides.pdf'
 url_source: ''
 url_video: ''
 
