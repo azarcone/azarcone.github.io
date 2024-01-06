@@ -41,7 +41,7 @@ featured: false
 url_pdf: ''
 url_code: ''
 url_dataset: ''
-url_poster: 'AMLaP2014_poster.pdf'
+url_poster: 'AMLaP2013_poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
