@@ -27,7 +27,7 @@ main:
     weight: 3
   - name: Research
     identifier: research
-    weigth: 30
+    weight: 30
   - name: Publications
     url: 'publication'
     parent: research
@@ -35,7 +35,7 @@ main:
   - name: Research Projects
     url: 'project'
     parent: research
-    weigth: 2
+    weight: 2
   - name: Talks & Outreach
     identifier: events
     weight: 40
