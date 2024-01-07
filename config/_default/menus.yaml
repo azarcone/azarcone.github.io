@@ -16,33 +16,33 @@ main:
   - name: Courses
     url: 'courses'
     parent: teaching
-    weight: 10
+    weight: 1
   - name: Student Projects
     url: 'student_project'
     parent: teaching
-    weight: 20
+    weight: 2
   - name: Thesis Supervision
     url: 'supervision'
     parent: teaching
-    weight: 30
+    weight: 3
   - name: Research
     identifier: research
-    weigth: 40
+    weigth: 30
   - name: Publications
     url: 'publication'
     parent: research
-    weight: 10
+    weight: 1
   - name: Research Projects
     url: 'project'
     parent: research
-    weigth: 20
-#  - name: Talks & Outreach
-#    identifier: events
-#    weight: 50
-#  - name: Invited Talks
-#    url: 'talk'
-#    parent: events
-#    weight: 10
+    weigth: 2
+  - name: Talks & Outreach
+    identifier: events
+    weight: 40
+  - name: Invited Talks
+    url: 'talk'
+    parent: events
+    weight: 10
 #  - name: Media 
 #    url: 'media'
 #    weight: 20
@@ -52,10 +52,10 @@ main:
 #    weight: 30
   - name: News
     url: '#news'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 80
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
