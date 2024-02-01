@@ -23,6 +23,7 @@ If you are interested in writing your thesis under my supervision, please contac
 
 <h4>Past thesis supervision</h4>
 
+- 2024: Klos, Tim, **KI-Governance im Unternehmenskontext: Eine Analyse für eine erfolgreiche KI-Integration**, Masterarbeit. Studiengang Business Information Systems, Technische Hochschule Augsburg
 - 2023: Lamba, Patricia, **Automatic sarcasm detection for English on Amazon reviews**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg
 - 2023: Lukic, Ivan, **Definition, Analyse und Entwiclung einer Recommendation Engine im E-Commerce Kontext**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with uniqbit AG)
 - 2023: Kopf, Fabian, **Individualisierung von künstlich erzeugten Texten**, Masterarbeit. Studiengang Informatik, Technische Hochschule Augsburg - published at **[CPSS 2023](../publication/2023-cpss/)**

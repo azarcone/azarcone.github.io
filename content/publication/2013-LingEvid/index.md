@@ -1,48 +1,47 @@
 ---
-title: "Small Data in NLU: Proposals towards a Data-Centric Approach"
+title: "When coercing means fitting: distributional modeling of psycholinguistic datasets"
 authors:
 - admin
-- Jens Lehmann
-- Emanuël A.P. Habets
 
-date: "2021-12-14T00:00:00Z"
+date: "2013-06-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2013-04-05T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['paper-conference']
+publication_types: ["speech"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Peer-reviewed paper, presented as a lighting talk at the NeurIPS Data-centric AI Workshop*"
-publication_short: "*Data-centric AI*"
+publication: "*Talk presented at Linguistic Evidence*"
+publication_short: "*Linguistic Evidence 2013*"
 
-abstract: "Domain-specific voice assistants often suffer from the problem of data scarcity. Publicly available, annotated datasets are in short supply and rarely fit the domain and the language required by a specific use case. Insufficient attention to data quality can generally be problematic when it comes to training and evaluation. The Computational Linguistics (CL) community has gained expertise and developed best practices for high-quality dataannotation and collection as well as for qualitative data analysis. However, the recent model-centric focus in AI and ML has not created ideal conditions for a fruitful collaboration with CL and the more data-centric fields of NLP to tackle data quality issues. We showcase principles and methods from CL/NLP research, which can potentially guide the development of data-centric NLU for domain-specific voice assistants - but have been typically overlooked by common practices in ML/AI. Those principles can potentially be of help to shape data-centric practices also for other domains. We argue that paying more attention to data quality and domain specificity can go a long way in improving the NLU components of today’s voiceassistants."
+abstract: ""
 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- conversational ai
-- data collection
-- data-centric
-- dialogue systems
-- human-centric
-
+- Complement Coercion
+- expectation-based processing
+- Logical Metonymy
+- lexical meaning in context
+- type clash
+- typicality
+- world knowledge
 
 featured: false
 
-url_pdf: 'https://datacentricai.org/neurips21/papers/160_CameraReady_Zarcone_DCAI.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'zarcone_LE2013_slides.pdf'
 url_source: ''
 url_video: ''
 
@@ -60,7 +59,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects: 
-- speaker
+- d6
 #- internal-project
 
 # Slides (optional).
