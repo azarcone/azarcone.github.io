@@ -12,6 +12,6 @@ date: "2023-02-06T00:00:00Z"
 external_link: https://sichtraum.hs-augsburg.de/2023/earnterface/
 
 image:
-  caption: Earnterface Logo
+  caption: Transformative Spaces Logo
   focal_point: Smart
 ---
