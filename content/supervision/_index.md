@@ -17,14 +17,13 @@ view: 1
 
 <h4>Are you interested in a thesis topic?</h4>
 
-I supervise Bachelor's and Master's theses in the fields of NLP and HMI in all degree programs related to computer science. To get an overview of possible topics, you can have a look at the theses I have already supervised on this page or browse my website to learn more about my research interests. Having attended my course "Einführung in die maschinelle Sprachverarbeitung" is recommended if you want to work on an NLP topic.
+I supervise Bachelor's and Master's theses in the fields of NLP and HMI in all degree programs related to computer science. To get an overview of possible topics, you can have a look at the theses I have already supervised on this page or browse my website to learn more about my research interests. Having attended my course "Einführung in die maschinelle Sprachverarbeitung" (or a similar course elsewhere) is recommended if you want to work on an NLP topic.
 
-If you are interested in writing your thesis under my supervision, please contact me by e-mail. If you already have an idea for a topic, please add a brief description. Please do not forget to indicate when you would like to start working on your thesis. 
+If you are interested in writing your thesis under my supervision, please contact me via e-mail. If you already have an idea for a topic, please add a brief description. Please do not forget to indicate <b>when</b> you would like to submit the application and start working on your thesis. 
 
-I highly recommend using LaTeX, in particular <a href="https://gitlab.informatik.hs-augsburg.de/tha-latex-templates/abschlussarbeit" target="_blank">this template</a> provided by the Faculty of Computer Science (you need to access the Computer Science Gitlab from the network of the THA or using VPN)
+I highly recommend using LaTeX, in particular <b><a href="https://gitlab.informatik.hs-augsburg.de/tha-latex-templates/abschlussarbeit" target="_blank">this template</a></b> provided by the Faculty of Computer Science (you need to access the Computer Science Gitlab from the network of the THA or using VPN)
 
 <h4>Past thesis supervision</h4>
-
 
 - 2024: Wetzel, Luisa, **KI-basierte Intent-Erkennung von Chatnachrichten -- Eine vergleichende Analyse von Rasa und modernen LLMs**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with Nuvotex GmbH)
 - 2024: Hintersberger, Martin, **Annotation is all you need: Data-centric optimization of a natural-language model in a chatbot context**, Masterarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with CHECK24 Vergleichsportal Mietwagen GmbH)
