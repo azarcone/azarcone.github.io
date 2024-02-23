@@ -21,8 +21,7 @@ I supervise Bachelor's and Master's theses in the fields of NLP and HMI in all d
 
 If you are interested in writing your thesis under my supervision, please contact me by e-mail. If you already have an idea for a topic, please add a brief description. Please do not forget to indicate when you would like to start working on your thesis. 
 
-I highly recommend using LaTeX, in particular the template provided by the 
-<a href="https://gitlab.informatik.hs-augsburg.de/tha-latex-templates/abschlussarbeit" target="_blank">Faculty of Computer Science</a> (you need to access the Computer Science Gitlab from the network of the THA or using VPN)
+I highly recommend using LaTeX, in particular <a href="https://gitlab.informatik.hs-augsburg.de/tha-latex-templates/abschlussarbeit" target="_blank">this template</a> provided by the Faculty of Computer Science (you need to access the Computer Science Gitlab from the network of the THA or using VPN)
 
 <h4>Past thesis supervision</h4>
 
