@@ -25,8 +25,6 @@ I highly recommend using LaTeX, in particular <b><a href="https://gitlab.informa
 
 <h4>Past thesis supervision</h4>
 
-Uhlig, Zieger, Aliahbari
-
 - 2024: Schwarz, David, **KI-basiertes Dialogmanagement für die Fehlerbehandlung in einem Robotersystem**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with KUKA)
 - 2024: Karl, Matthias, **Untersuchung und Analyse von KI Einsatzmöglichkeiten im industriellen Kontext: Vertrieb und After Sales**, Bachelorarbeit. Studiengang Wirtschaftsinformatik, Technische Hochschule Augsburg (in collaboration with MAN Energy Solutions)
 - 2024: Wetzel, Luisa, **KI-basierte Intent-Erkennung von Chatnachrichten -- Eine vergleichende Analyse von Rasa und modernen LLMs**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with Nuvotex GmbH)
