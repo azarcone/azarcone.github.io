@@ -1,16 +1,16 @@
 ---
 title: "Caring about data before it was cool – language data between computational linguistics and real-world applications"
 
-event: Weekly Seminar at CLASP, University of Gothenburg
-event_url: 'https://gu-clasp.github.io/news/Seminar%20by%20Alessandra%20Zarcone/'
+event: Invited GSCL Talk (Gesellschaft für Sprachtechnologie und Computerlinguistik)
+event_url: 'https://www.gscl.org/en/2022/07/19/alessandrazarcone.html'
 
-location: 'J577, University of Gothenburg'
-address:
+location: 'online'
+#address:
 #  street: University of Gothenburg
 #  city: Augsburg
 #  region: CA
 #  postcode: '94305'
-  country: Sweden
+#  country: Sweden
 
 summary: Invited talk for one of the weekly seminar at CLASP, University of Gothenburg.
 
