@@ -14,9 +14,7 @@ location: 'online'
 
 summary: Invited GSCL Talk (Gesellschaft für Sprachtechnologie und Computerlinguistik).
 
-abstract: "Computational linguists have cared about data “before it was cool”."
-
-#In the community of ML/AI practitioners, however, “model work” gets more love than the “data work”. Small and medium business, while not immune to the AI hype, often (1) do not have enough (representative) data for training their machine learning modules (2) lack the in-house expertise and the resources to collect realistic data (3) underestimate the effort needed to prevent data-related issues. I will present recent studies showing the importance of a more data-oriented approach when it comes to use-case specific models. I will discuss how a scarce attention to data has consequences on its quality as well as ethical consequences and argue that a data-centered and user-centered perspective is a missing link when transferring technologies outside academia and into industrial use cases."
+abstract: "Computational linguists have cared about data “before it was cool”. In the community of ML/AI practitioners, however, “model work” gets more love than the “data work”. Small and medium business, while not immune to the AI hype, often (1) do not have enough (representative) data for training their machine learning modules (2) lack the in-house expertise and the resources to collect realistic data (3) underestimate the effort needed to prevent data-related issues. I will present recent studies showing the importance of a more data-oriented approach when it comes to use-case specific models. I will discuss how a scarce attention to data has consequences on its quality as well as ethical consequences and argue that a data-centered and user-centered perspective is a missing link when transferring technologies outside academia and into industrial use cases."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
