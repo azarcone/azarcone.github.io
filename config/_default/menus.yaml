@@ -40,7 +40,7 @@ main:
     identifier: events
     weight: 40
   - name: Invited Talks
-    url: 'talk'
+    url: 'event'
     parent: events
     weight: 10
 #  - name: Media 
