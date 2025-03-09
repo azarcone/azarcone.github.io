@@ -1,24 +1,24 @@
 ---
-title: "Dialoghi con l'Intelligenza Artificiale - la Linguistica Computazionale in ambito industriale"
+title: "The importance of being hybrid - Research and Career in the time of Large Language Models"
 
-#event: Sichtraum 2023
-#event_url: 'https://sichtraum.hs-augsburg.de/2023/alessandra-zarcone/'
+event: Nürnberg Women in Machine Learning and Data Science Meetup
+event_url: 'https://www.meetup.com/nurnberg-women-in-machine-learning-and-data-science/events/?type=past'
 
-location: 'Scuola Normale Superiore'
+location: 'Medical Valley Center, Room K2, 2nd floor'
 address:
-#  street: Campus am Brunnenlech
- city: Pisa
+ street: Henkestr. 91
+ city: Erlangen
 #  region: CA
-#  postcode: '94305'
- country: Italy
+ postcode: '91052'
+# country: Italy
 
-summary: Invited lecture for the students of the Linguistics course.
+summary: Mentorship Talk for Women in Machine Learning and Data Science
 
 abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-05-17T10:00:00Z"
+date: "2024-007-23T17:30:00Z"
 #date_end: "2022-05-25T20:00:00Z"
 all_day: true
 
