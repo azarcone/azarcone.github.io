@@ -1,12 +1,12 @@
 ---
-title: "Wie KI Neues schafft! Generative Modelle, Anwendungen, Herausforderungen"
+title: "Interdisziplinarität als Komfortzone – Interdisziplinäre Perspektive zur Gestaltung unserer Zukunft mit KI"
 
 event: Sichtraum 2023
 event_url: 'https://sichtraum.hs-augsburg.de/2023/alessandra-zarcone/'
 
-location: 'Hotel am Badersee'
+location: 'Sichtraum 2023, Hochschule Augsburg'
 address:
-#  street: Campus am Brunnenlech
+  street: Campus am Brunnenlech
   city: Grainau
 #  region: CA
 #  postcode: '94305'
@@ -14,9 +14,7 @@ address:
 
 summary: Invited talk for Sichtraum 2023, Hochschule Augsburg.
 
-abstract: "KI-Systeme sind in unserem täglichen Leben allgegenwärtig, manchmal sogar unbemerkt. Obwohl sie das Potenzial haben, unser Leben zu erleichtern, sind sie nicht immer erfolgreich und können in manchen Fällen sogar Schaden verursachen. Um erfolgreich mit den Herausforderungen der KI umzugehen, brauchen wir Persönlichkeiten, die sich nicht nur mit den neuesten KI-Architekturen und -Technologien auseinandersetzen, sondern auch die menschlichen Aspekte in ihre Arbeit einbeziehen und berücksichtigen. Sie sollen die Ängste der Menschen und deren Bedürfnisse nach Datenschutz und Transparenz verstehen, sich für ihre Rechte einsetzen und ein neues digitales Bewusstsein schaffen können. In ihrem Vortrag wird Alessandra Zarcone Impulse über nutzer- und datenorientierte KI geben und für interdisziplinäre Ansätze zur Gestaltung unserer Zukunft mit KI plädieren.<br />
-<br />
-Alessandra Zarcone ist promovierte Computerlinguistin mit Abschlüssen in Digital Humanities und Linguistik. Ihre Schwerpunkte sind Mensch-Computer-Interaktion und nutzer- und datenorientierter KI. Nach eine wissenschaftliche Laufbahn in Pisa, Saarbrücken und Stuttgart hat sie sich auf angewandte Forschung im Bereich der konversationellen KI am Fraunhofer IIS in Erlangen spezialisiert. 2022 wurde sie auf die Forschungsprofessur Sprachtechnologie und kognitive Assistenz an der Fakultät für Informatik der Hochschule Augsburg berufen und arbeitet seit Januar 2023 weiterhin am Fraunhofer IIS als Chief Scientist im Bereich Conversational AI."
+abstract: "KI-Systeme sind in unserem täglichen Leben allgegenwärtig, manchmal sogar unbemerkt. Obwohl sie das Potenzial haben, unser Leben zu erleichtern, sind sie nicht immer erfolgreich und können in manchen Fällen sogar Schaden verursachen. Um erfolgreich mit den Herausforderungen der KI umzugehen, brauchen wir Persönlichkeiten, die sich nicht nur mit den neuesten KI-Architekturen und -Technologien auseinandersetzen, sondern auch die menschlichen Aspekte in ihre Arbeit einbeziehen und berücksichtigen. Sie sollen die Ängste der Menschen und deren Bedürfnisse nach Datenschutz und Transparenz verstehen, sich für ihre Rechte einsetzen und ein neues digitales Bewusstsein schaffen können. In ihrem Vortrag wird Alessandra Zarcone Impulse über nutzer- und datenorientierte KI geben und für interdisziplinäre Ansätze zur Gestaltung unserer Zukunft mit KI plädieren."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
