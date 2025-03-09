@@ -1,24 +1,24 @@
 ---
-title: "Sprachmodelle in der Praxis - Was der Aufstieg großer KI-Sprachmodelle für die Industrie bedeutet"
+title: "Dialoghi con l'Intelligenza Artificiale - la Linguistica Computationale in ambito industriale"
 
-event: "KI - escht künstlich, echt intelligent?"
-event_url: 'https://gws-netzwerk.de/forum/2024/programm/'
+#event: Sichtraum 2023
+#event_url: 'https://sichtraum.hs-augsburg.de/2023/alessandra-zarcone/'
 
-location: 'Akademie Gesundes Leben'
+location: 'Scuola Normale Superiore'
 address:
-  street: Gotische Str. 15
-  city: Oberursel (bei Frankfurt)
+#  street: Campus am Brunnenlech
+ city: Pisa
 #  region: CA
-  postcode: '61440'
-  country: Deutschland
+#  postcode: '94305'
+ country: Italy
 
-summary: "Keynote bei der gws-forum 2024"
+summary: Invited lecture for the students of the Linguistics course.
 
-abstract: "Wo liegen die Schwierigkeiten und Chancen, wenn wir KI zur Verarbeitung von Sprachdaten einsetzen? Was passiert, wenn wir mit einer Maschine über unsere Sprache interagieren können?"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-02-22T11:30:00Z"
+date: "2024-05-17T10:00:00Z"
 #date_end: "2022-05-25T20:00:00Z"
 all_day: true
 
