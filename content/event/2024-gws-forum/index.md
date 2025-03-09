@@ -1,23 +1,24 @@
 ---
-title: "Wie KI Neues schafft! Generative Modelle, Anwendungen und Herausforderungen"
+title: "Sprachmodelle in der Praxis - Was der Aufstieg großer KI-Sprachmodelle für die Industrie bedeutet"
 
-event: Gemeinsame Tagung der GVB und HWK Schwaben 2023
-#event_url: 'https://sichtraum.hs-augsburg.de/2023/alessandra-zarcone/'
+event: "KI - escht künstlich, echt intelligent?"
+event_url: 'https://gws-netzwerk.de/forum/2024/programm/'
 
-location: 'Hotel am Badersee, Grainau'
-# address:
-#  city: Grainau
+location: 'Akademie Gesundes Leben'
+address:
+  street: Gotische Str. 15
+  city: Oberursel (bei Frankfurt)
 #  region: CA
-#  postcode: '94305'
-#  country: Sweden
+  postcode: '61440'
+  country: Deutschland
 
-summary: Keynote auf der gemeinsame Tagung der GVB und HWK Schwaben
+summary: "Keynote bei der gws-forum 2024"
 
-# abstract: ""
+abstract: "Wo liegen die Schwierigkeiten und Chancen, wenn wir KI zur Verarbeitung von Sprachdaten einsetzen? Was passiert, wenn wir mit einer Maschine über unsere Sprache interagieren können??"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-09-15T14:15:00Z"
+date: "2024-02-22T11:30:00Z"
 #date_end: "2022-05-25T20:00:00Z"
 all_day: true
 

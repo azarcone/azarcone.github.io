@@ -5,9 +5,9 @@ event: Sichtraum 2023
 event_url: 'https://sichtraum.hs-augsburg.de/2023/alessandra-zarcone/'
 
 location: 'Sichtraum 2023, Hochschule Augsburg'
-address:
-  street: Campus am Brunnenlech
-  city: Grainau
+# address:
+#  street: Campus am Brunnenlech
+#  city: Augsburg
 #  region: CA
 #  postcode: '94305'
 #  country: Sweden

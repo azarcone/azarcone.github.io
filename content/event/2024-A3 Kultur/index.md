@@ -1,23 +1,24 @@
 ---
-title: "Wie KI Neues schafft! Generative Modelle, Anwendungen und Herausforderungen"
+title: "KI und Kunst"
 
-event: Gemeinsame Tagung der GVB und HWK Schwaben 2023
-#event_url: 'https://sichtraum.hs-augsburg.de/2023/alessandra-zarcone/'
+event: "Ein a3kultur-Salon in Kooperation mit BBK Schwaben-Nord und Augsburg und Ständige Konferenz e.V."
+event_url: 'https://www.staendige-konferenz.de/wir-ki-und-die-kunst/'
 
-location: 'Hotel am Badersee, Grainau'
+location: 'Glaspalast, Augsburg'
 # address:
-#  city: Grainau
+#  street: Campus am Brunnenlech
+#  city: Augsburg
 #  region: CA
 #  postcode: '94305'
 #  country: Sweden
 
-summary: Keynote auf der gemeinsame Tagung der GVB und HWK Schwaben
+summary: Teilnahme an einer siebenköpfigen Runde aus Kunstschaffenden und Expert*innen
 
 # abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-09-15T14:15:00Z"
+date: "2024-01-20T18:00:00Z"
 #date_end: "2022-05-25T20:00:00Z"
 all_day: true
 
