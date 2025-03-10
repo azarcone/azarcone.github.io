@@ -1,10 +1,10 @@
 ---
-title: "Talk to your (Industrial) Data: Mithilfe von LLMs Fragen beantworten und Informationen in unternehmensinternen Daten finden"
+title: "Mögliche Schädlichkeit von KI: Wie kann KI von Werten geleitet werden und wer trägt die Verantwortung?"
 
-event: "KI in der Produktion: Fraunhofer IGCV-Summit 2024"
-event_url: 'https://www.igcv.fraunhofer.de/de/veranstaltungen/KI-produktion-summit.html'
+event: "Officina intelligenza post-umana - ciclo di seminari sul ruolo dell'intelligenza artificiale nelle discipline umanistiche" 
+event_url: 'https://a3kultur.de/nachrichten/kunstfreiheit-gedeckt'
 
-location: 'Fraunhofer IGCV, Augsburg'
+location: 'Università di Padova'
 # address:
 #  street: Campus am Brunnenlech
 # city: Pisa
@@ -12,13 +12,13 @@ location: 'Fraunhofer IGCV, Augsburg'
 #  region: CA
 #  postcode: '94305'
 
-summary: "Impulse Talk beim Fraunhofer IGCV-Summit 2024"
+summary: "Seminario per il ciclo di seminari “Officina intelligenza post-umana” all'Università di Padova"
 
-abstract: "LLMs bieten großes Potenzial für den schnellen Zugriff auf Daten und die automatischen Beantwortung von Fragen in industriellen Anwendungen. Ihre Integration mit unternehmensinternen Daten ist jedoch nicht trivial. Ich werde typische Anwendungsfälle und die aktuelle Herausforderungen diskutieren. "
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2024-11-13T14:30:00Z"
+date: "2024-09-27T19:00:00Z"
 #date_end: "2022-05-25T20:00:00Z"
 all_day: true
 
