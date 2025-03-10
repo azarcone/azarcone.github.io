@@ -1,5 +1,5 @@
 ---
-title: "Mögliche Schädlichkeit von KI: Wie kann KI von Werten geleitet werden und wer trägt die Verantwortung?"
+title: "Intelligenza Artificiale e Scienze Umane: una mappa per orientarsi nel panorama delle nuove tecnologie"
 
 event: "Officina intelligenza post-umana - ciclo di seminari sul ruolo dell'intelligenza artificiale nelle discipline umanistiche" 
 event_url: 'https://a3kultur.de/nachrichten/kunstfreiheit-gedeckt'
