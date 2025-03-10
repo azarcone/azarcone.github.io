@@ -31,8 +31,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+image:
+  caption: 'Image credit: [**Esther Irina Pschibul**](https://www.esther-pschibul.de/)'
 #  focal_point: Right
 
 #links:

@@ -8,9 +8,9 @@ location: 'Scuola Normale Superiore'
 address:
 #  street: Campus am Brunnenlech
  city: Pisa
+ country: Italy
 #  region: CA
 #  postcode: '94305'
- country: Italy
 
 summary: Invited lecture for the students of the Linguistics course.
 
