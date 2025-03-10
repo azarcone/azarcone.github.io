@@ -12,7 +12,7 @@ location: 'Umweltbildungszentrum Augsburg (UBZ)'
 #  region: CA
 #  postcode: '94305'
 
-summary: Beitrag bei der Fokusnacht “Von der Kunstfreiheit gedeckt - Kunst, Meinungsfreiheit, Demokratie”"
+summary: "Beitrag bei der Fokusnacht “Von der Kunstfreiheit gedeckt - Kunst, Meinungsfreiheit, Demokratie”"
 
 abstract: "Large Language Models (LLMs oder Sprachmodelle) werden mit großen Mengen an Trainingsdaten trainiert, um plausible Sprachsequenzen zu erzeugen. Dadurch können sie in einer Vielzahl von KI-Technologien erfolgreich eingesetzt werden, wie z.B. Chatbots oder Schreibassistenten. Da die Trainingsdaten aus dem gesamten Web stammen (einschließlich Daten aus Büchern, Zeitungen, sozialen Medien und Diskussionsforen wie Reddit), besteht die Möglichkeit, dass ein LLM plausible Sequenzen erzeugt, die dennoch unerwünscht sind: z.B. rassistische und gewalttätige Ausdrücke oder Äußerungen, die mit Vorurteilen beladen sind.<br />
 <br />
