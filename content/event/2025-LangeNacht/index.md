@@ -31,15 +31,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-#image:
-#  caption: 'Image credit: [**a3kultur**](https://a3kultur.de/)'
+image:
+caption: 'Image credit: Jessica Hövelborn und THA-Bibliothek'
 #  focal_point: Right
 
 #links:
 #- icon: ""
 #  icon_pack: fab
 #  name: Dagstuhl report
-#  url: "https://drops.dagstuhl.de/opus/volltexte/2014/4438/pdf/dagrep_v003_i011_p079_s13462.pdf"
+url: "https://www.tha.de/Bibliothek/Stadtgesellschaft-zeigte-grosses-Interesse-an-der-THA-Bibliothek-bei-der-Nacht-der-Bibliotheken-2025.page"
 url_code: ""
 url_pdf: ""
 url_slides: ""
