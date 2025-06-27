@@ -39,7 +39,7 @@ caption: 'Image credit: Jessica Hövelborn und THA-Bibliothek'
 #- icon: ""
 #  icon_pack: fab
 #  name: Dagstuhl report
-url: "https://www.tha.de/Bibliothek/Stadtgesellschaft-zeigte-grosses-Interesse-an-der-THA-Bibliothek-bei-der-Nacht-der-Bibliotheken-2025.page"
+url: "https://www.tha.de/Bibliothek/Stadtgesellschaft-zeigte-grosses-Interesse-an-der-THA-Bibliothek-bei-der-Nacht-der-Bibliotheken-2025.html"
 url_code: ""
 url_pdf: ""
 url_slides: ""
