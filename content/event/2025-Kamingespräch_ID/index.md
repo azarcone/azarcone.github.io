@@ -1,5 +1,5 @@
 ---
-title: "im Dialog mit der KI"
+title: "Im Dialog mit der KI"
 
 event: "Kamingespräch der Studiengang Identity Design, Fakultät für Gestaltung" 
 #event_url: 'https://a3kultur.de/nachrichten/kunstfreiheit-gedeckt'
@@ -14,7 +14,7 @@ location: 'TH Augsburg'
 
 summary: "Kamingespräch der Studiengang Identity Design, Fakultät für Gestaltung"
 
-abstract: ""
+abstract: "Was ist KI? Was sagt sie über uns, was sagen wir über sie?"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
