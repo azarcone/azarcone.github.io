@@ -1,7 +1,7 @@
 ---
 title: KI und Kunst
 date: '2024-01-03'
-summary: Diskussion über KI und Kunst am 20.01.24 (Glaspalast, Augsburg)
+summary: 'Diskussion über KI und Kunst am 20.01.24 (Glaspalast, Augsburg)'
 ---
 
 Das technisch Machbare und seine kreative Umsetzung faszinieren seit jeher Künstlerinnen wie Publikum. Die durch KI geschaffenen Optionen katapultieren diese Möglichkeiten auf neue Levels. KI und KUNST - Wir diskutieren Chancen und Risiken.
