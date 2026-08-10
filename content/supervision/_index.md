@@ -25,14 +25,15 @@ I highly recommend using LaTeX, in particular <b><a href="https://gitlab.informa
 
 <h4>Past thesis supervision</h4>
 
-- 2024: Schwarz, David, **KI-basiertes Dialogmanagement für die Fehlerbehandlung in einem Robotersystem**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with KUKA)
-- 2024: Karl, Matthias, **Untersuchung und Analyse von KI Einsatzmöglichkeiten im industriellen Kontext: Vertrieb und After Sales**, Bachelorarbeit. Studiengang Wirtschaftsinformatik, Technische Hochschule Augsburg (in collaboration with MAN Energy Solutions)
-- 2024: Wetzel, Luisa, **KI-basierte Intent-Erkennung von Chatnachrichten -- Eine vergleichende Analyse von Rasa und modernen LLMs**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with Nuvotex GmbH)
-- 2024: Hintersberger, Martin, **Annotation is all you need: Data-centric optimization of a natural-language model in a chatbot context**, Masterarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with CHECK24 Vergleichsportal Mietwagen GmbH)
-- 2024: Asam, Maximilian, **Using a Conversational Agent for Information Retrieval from an Organisational Wiki**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with Xitaso GmbH)
-- 2024: Klos, Tim, **KI-Governance im Unternehmenskontext: Eine Analyse für eine erfolgreiche KI-Integration**, Masterarbeit. Studiengang Business Information Systems, Technische Hochschule Augsburg (in collaboration with BITCO³ GmbH)
-- 2023: Lamba, Patricia, **Automatic sarcasm detection for English on Amazon reviews**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg
-- 2023: Lukic, Ivan, **Definition, Analyse und Entwiclung einer Recommendation Engine im E-Commerce Kontext**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with uniqbit AG)
+Below you find a selection of theses which have been published as workshop or conference papers:
+
+- 2026: Hofbauer, Sonja, **Versteht Künstliche Intelligenz gesunden Menschenverstand? - Eine Plausibilitätsanalyse von Phrasenergänzungen in deutschen Anweisungstexten**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg - to appear at KONVENS 2026
+- 2026: Bai, Jie, **Enhancing User Experience in E-commerce Conversational AI: An Experimental Study on Visual Cues** Masterarbeit. Studiengang Interaktive Mediensysteme, Technische Hochschule Augsburg - to appear at CURE2026
+- 2025: Hsu, Hsin-Yu, ***Evaluating emotional design in ChatGPT voice modes: User experience and gender effects in the language learning scenario*** Masterarbeit. Studiengang Interaktive Mediensysteme, Technische Hochschule Augsburg - 
+- 2024: Geiss, Corsin, ***Predicting the Severity of Online Misogyny with Fine-Tuned BERT Models***, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg - published at GermEval 2024
+- 2024: Schwarz, David, **KI-basiertes Dialogmanagement für die Fehlerbehandlung in einem Robotersystem**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with KUKA) - published at Mensch und Computer
 - 2023: Kopf, Fabian, **Individualisierung von künstlich erzeugten Texten**, Masterarbeit. Studiengang Informatik, Technische Hochschule Augsburg - published at **[CPSS 2023](../publication/2023-cpss/)**
 - 2020: Alam, Touhidul, **A Domain-Adaptive Temporal Tagger for Voice Assistants**, Master Thesis. Studiengang Computational Linguistics, Universität Stuttgart (in collaboration with Fraunhofer IIS) - published at **[LREC 2020](../publication/2020-lrec/)** and **[IWCS 2021](../publication/2021-iwcs/)**
 - 2011: Rüd, Stefan, **Covert Events and Qualia Structures for German Verbs**, Studienarbeit. Universität Stuttgart - published at **[LREC 2012](../publication/2012-lrec/)**
+
+I have supervised theses in collaboration with Akkodis, Ascent, BITCO³ GmbH, Business IT Solutions GmbH, BMW, CHECK24 Vergleichsportal Mietwagen GmbH, Fraunhofer IGCV, KUKA, MaibornWolff GmbH, MAN Energy Solutions (now Everllence), Nuvotex GmbH, RATIONAL, uniqbit AG, Verlag C.H. Beck, XITASO GmbH.
