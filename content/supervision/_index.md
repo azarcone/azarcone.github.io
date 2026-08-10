@@ -29,7 +29,7 @@ Below you find a selection of theses which have been published as workshop or co
 
 - 2026: Hofbauer, Sonja, **Versteht Künstliche Intelligenz gesunden Menschenverstand? - Eine Plausibilitätsanalyse von Phrasenergänzungen in deutschen Anweisungstexten**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg - to appear at KONVENS 2026
 - 2026: Bai, Jie, **Enhancing User Experience in E-commerce Conversational AI: An Experimental Study on Visual Cues** Masterarbeit. Studiengang Interaktive Mediensysteme, Technische Hochschule Augsburg - to appear at CURE2026
-- 2025: Hsu, Hsin-Yu, **Evaluating emotional design in ChatGPT voice modes: User experience and gender effects in the language learning scenario** Masterarbeit. Studiengang Interaktive Mediensysteme, Technische Hochschule Augsburg - 
+- 2025: Hsu, Hsin-Yu, **Evaluating emotional design in ChatGPT voice modes: User experience and gender effects in the language learning scenario** Masterarbeit. Studiengang Interaktive Mediensysteme, Technische Hochschule Augsburg - to appear at Mensch und Computer
 - 2024: Geiss, Corsin, **Predicting the Severity of Online Misogyny with Fine-Tuned BERT Models**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg - published at GermEval 2024
 - 2024: Schwarz, David, **KI-basiertes Dialogmanagement für die Fehlerbehandlung in einem Robotersystem**, Bachelorarbeit. Studiengang Informatik, Technische Hochschule Augsburg (in collaboration with KUKA) - published at Mensch und Computer
 - 2023: Kopf, Fabian, **Individualisierung von künstlich erzeugten Texten**, Masterarbeit. Studiengang Informatik, Technische Hochschule Augsburg - published at **[CPSS 2023](../publication/2023-cpss/)**
