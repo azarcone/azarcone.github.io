@@ -127,8 +127,10 @@ social:
 highlight_name: true
 ---
 
-I am a computational linguist with a background in NLP and in psycholinguistics. I am interested in
-- *data-centered AI*: how we can improve data quality to train better models on language tasks
-- *human-centered AI*, that is how we can take humans (users, designers, crowdworkers and annotators) into account in all things AI to leverage their intuitions, to interact with them in a fair way and design better human-machine teamwork
+I am a computational linguist with a background in NLP and psycholinguistics, and work experience in industrial language technologies. I am interested in:
+- *small-resource NLP*: developing methods that work well with limited data, improving data quality to train better models for language tasks, using the right tool for the right job
+- *multimodality*: how language and vision models work together
+- *human-centered AI*: including humans (users, designers, crowdworkers, annotators) throughout the AI pipeline, to leverage their intuitions, interact with them fairly, and design better human-machine teamwork
+- *AI in education and AI literacy*: giving everyone the tools they need to understand AI and resisting AI-induced deskilling
 
 {style="text-align: justify;"}
